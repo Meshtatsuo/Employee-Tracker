@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Meshtatsuo/Employee-Tracker#readme",
   "dependencies": {
-    "inquirer": "^8.2.1"
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.1",
+    "mysql2": "^2.3.3"
   }
 }
