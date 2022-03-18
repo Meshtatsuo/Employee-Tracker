@@ -33,3 +33,8 @@ LEFT JOIN employee_role r ON
     e.role_id = r.id
 LEFT JOIN department d ON
     r.department_id = d.id;
+
+-- UPDATE EMPLOYEE'S ROLE ID (0 val is placeholder)
+UPDATE employees
+SET role_id = 0
+WHERE id = 0
