@@ -1,5 +1,3 @@
-const inquirer = require("inquirer");
-const query = require('./lib/db_queries');
-const db = require('./lib/mod_db');
+const home = require('./lib/inquirer');
 
-query.displayRoles();
+home.beginAppLoop();
