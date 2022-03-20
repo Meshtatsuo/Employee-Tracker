@@ -7,6 +7,10 @@ An SQL based employee tracking system in Node.JS.
 - Node.JS
 - MySQL2 and Inquirer npm packages
 
+## Usage Preview
+
+<b>View a video walkthrough of the project here: https://www.youtube.com/watch?v=gISTE3Hfu8s </b>
+
 ## Installation
 
 <b>Note:</b> This software requires MySQL and Node.JS. Please ensure you have them installed before continuing!
@@ -27,8 +31,3 @@ An SQL based employee tracking system in Node.JS.
 In a terminal opened to the project's root directory:
 1. Run ```npm i``` to install dependencies
 2. Either run ```node index``` or ```npm start``` to begin!
-
-## Usage Preview
-
-View a video walkthrough of the project here: [vid link]
-
