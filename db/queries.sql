@@ -1,3 +1,8 @@
+-- QUERY DUMP FILE
+-- Used to write out and test queries in the terminal
+-- before bringing them into the project.
+-- (Essentially a scratchpad for me to work out what I needed)
+
 -- SHOW ALL DEPARTMENTS - Formatted Better Tiles
 SELECT 
     id AS "Department ID",

@@ -1,5 +1,6 @@
--- Create the employees_db if it doesn't exist
-CREATE DATABASE IF NOT EXISTS employees_db;
+-- Create the employees_db
+DROP DATABASE IF EXISTS employees_db;
+CREATE DATABASE employees_db;
 USE employees_db;
 
 -- drop old tables if they do exist

@@ -1,3 +1,5 @@
+-- USE TO ADD SAMPLE DATA TO THE DATABASE FOR TESTING
+
 INSERT INTO department (department_name)
 VALUES ("IT"), ("Accounting"), ("Human resources"), ("Marketing");
 
